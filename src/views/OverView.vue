@@ -1,11 +1,9 @@
 <template>
-  <div>AboutView</div>
+  <div>OverView</div>
 </template>
-
 <script>
 export default {
-  name: "AboutVie",
+  name: "OverView",
 };
 </script>
-
 <style></style>
