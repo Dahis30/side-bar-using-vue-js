@@ -1,5 +1,5 @@
 <template>
-  <div>AboutView</div>
+  <div>AboutView Section</div>
 </template>
 
 <script>
